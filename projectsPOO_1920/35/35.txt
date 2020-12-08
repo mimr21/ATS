@@ -1,0 +1,2 @@
+sonar.projectName=35
+sonar.sources=/__MACOSX/Grupo31_POO2020/._MenuUtilizador.java

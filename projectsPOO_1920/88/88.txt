@@ -1,0 +1,2 @@
+sonar.projectName=88
+sonar.sources=/TrazAqui/src

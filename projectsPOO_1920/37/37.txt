@@ -1,0 +1,2 @@
+sonar.projectName=37
+sonar.sources=/POO-TrazAqui--master/src

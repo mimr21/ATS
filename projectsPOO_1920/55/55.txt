@@ -1,0 +1,2 @@
+sonar.projectName=55
+sonar.sources=/Grupo08_POO2020/TP/Projeto

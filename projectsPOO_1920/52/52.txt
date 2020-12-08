@@ -1,0 +1,2 @@
+sonar.projectName=52
+sonar.sources=/encomenda

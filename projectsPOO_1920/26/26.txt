@@ -1,0 +1,2 @@
+sonar.projectName=26
+sonar.sources=/POO-Project-master

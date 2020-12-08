@@ -1,0 +1,28 @@
+[2020-11-14 17:30:33.653] [exthost] [info] extension host started
+[2020-11-14 17:30:33.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-11-14 17:30:33.750] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-11-14 17:30:33.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-11-14 17:30:33.809] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-11-14 17:30:33.834] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-11-14 17:30:33.834] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-11-14 17:30:33.906] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-14 17:30:33.906] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/git/dist/main
+[2020-11-14 17:30:33.996] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-11-14 17:30:33.996] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-11-14 17:30:34.012] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-11-14 17:30:34.013] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/search-result/dist/extension.js
+[2020-11-14 17:30:34.174] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-14 17:30:34.175] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/github/dist/extension.js
+[2020-11-14 17:30:34.315] [exthost] [info] eager extensions activated
+[2020-11-14 17:30:34.315] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-11-14 17:30:34.316] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-11-14 17:30:34.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-11-14 17:30:34.867] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2020-11-14 17:30:35.747] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-11-14 17:30:35.748] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2020-11-14 17:30:35.774] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2020-11-14 17:30:35.774] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/typescript-language-features/dist/extension
+[2020-11-14 17:30:35.865] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":false,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"onLanguage:typescript"}
+[2020-11-14 17:30:35.865] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tania/.var/app/com.visualstudio.code/data/vscode/extensions/ecmel.vscode-html-css-0.2.3/dist/extension
+[2020-11-14 17:32:45.877] [exthost] [info] ExtensionService#_doActivateExtension lonefy.vscode-JS-CSS-HTML-formatter {"startup":false,"extensionId":{"value":"lonefy.vscode-JS-CSS-HTML-formatter","_lower":"lonefy.vscode-js-css-html-formatter"},"activationEvent":"onLanguage:javascript"}
+[2020-11-14 17:32:45.877] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tania/.var/app/com.visualstudio.code/data/vscode/extensions/lonefy.vscode-js-css-html-formatter-0.2.3/out/src/extension

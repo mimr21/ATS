@@ -1,0 +1,2 @@
+sonar.projectName=62
+sonar.sources=/proj_grupo49/src

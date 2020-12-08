@@ -1,0 +1,2 @@
+sonar.projectName=82
+sonar.sources=/Projeto_POO-master/src

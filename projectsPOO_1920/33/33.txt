@@ -1,0 +1,2 @@
+sonar.projectName=33
+sonar.sources=/POO (3)/POO

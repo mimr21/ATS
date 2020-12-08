@@ -1,0 +1,2 @@
+sonar.projectName=56
+sonar.sources=/Grupo44_POO2020/POO-master

@@ -1,0 +1,2 @@
+sonar.projectName=3
+sonar.sources=/POO_Projeto1920/src

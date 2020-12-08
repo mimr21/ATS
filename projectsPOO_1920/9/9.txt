@@ -1,0 +1,2 @@
+sonar.projectName=9
+sonar.sources=/TP1920/TP - BLUEJ/src

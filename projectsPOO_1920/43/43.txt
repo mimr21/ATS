@@ -1,0 +1,2 @@
+sonar.projectName=43
+sonar.sources=/projPoo/src

@@ -1,0 +1,210 @@
+{
+  "appInfo" : {
+    "build" : "202.7660.26",
+    "buildDate" : "Tue, 6 Oct 2020 09:32:43 +0100",
+    "productCode" : "IU",
+    "generated" : "Sat, 7 Nov 2020 19:00:41 GMT",
+    "os" : "Linux 5.4.0-52-generic",
+    "runtime" : "JetBrains s.r.o. 11.0.8 11.0.8+10-b944.34"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 760283136,
+    "numberOfProcessors" : 3,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "Projeto",
+    "numberOfFileProviders" : 1,
+    "totalNumberOfFiles" : 1,
+    "times" : {
+      "indexingTime" : "339 ms",
+      "scanFilesTime" : "306 ms",
+      "pushPropertiesTime" : "11 ms",
+      "indexExtensionsTime" : "< 1 ms",
+      "pushPropertiesStart" : "Sat, 7 Nov 2020 19:00:40 GMT",
+      "pushPropertiesEnd" : "Sat, 7 Nov 2020 19:00:40 GMT",
+      "scanFilesStart" : "Sat, 7 Nov 2020 19:00:40 GMT",
+      "scanFilesEnd" : "Sat, 7 Nov 2020 19:00:41 GMT",
+      "indexExtensionsStart" : "Sat, 7 Nov 2020 19:00:40 GMT",
+      "indexExtensionsEnd" : "Sat, 7 Nov 2020 19:00:40 GMT",
+      "indexingStart" : "Sat, 7 Nov 2020 19:00:40 GMT",
+      "indexingEnd" : "Sat, 7 Nov 2020 19:00:41 GMT"
+    },
+    "numberOfIndexingThreads" : 2,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : "100.0%",
+      "partOfTotalContentLoadingTime" : "100.0%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "117.08 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Projeto'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "422 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "18.7%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "625.78 kB/s"
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : "18.5%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "631.14 kB/s"
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : "10.6%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "1.1 MB/s"
+    }, {
+      "indexId" : "ant-imports",
+      "partOfTotalIndexingTime" : "8.8%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "1.33 MB/s"
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : "8.4%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "1.39 MB/s"
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "7.6%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "1.55 MB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "4.8%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "2.46 MB/s"
+    }, {
+      "indexId" : "taglibUris",
+      "partOfTotalIndexingTime" : "4.6%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "2.54 MB/s"
+    }, {
+      "indexId" : "XsltSymbolIndex",
+      "partOfTotalIndexingTime" : "4.6%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "2.57 MB/s"
+    }, {
+      "indexId" : "SpringXmlBeansIndex",
+      "partOfTotalIndexingTime" : "4.3%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "2.74 MB/s"
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : "2.6%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "4.45 MB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "2.4%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "4.94 MB/s"
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : "1.6%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "7.52 MB/s"
+    }, {
+      "indexId" : "IdeaPluginRegistrationIndex",
+      "partOfTotalIndexingTime" : "1.1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "10.97 MB/s"
+    }, {
+      "indexId" : "PluginIdDependenciesIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "22.73 MB/s"
+    }, {
+      "indexId" : "devkit.ExtensionPointIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "23.16 MB/s"
+    }, {
+      "indexId" : "PluginIdModuleIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "422 B",
+      "indexingSpeed" : "23.56 MB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'Projeto'",
+      "totalNumberOfFiles" : 1,
+      "totalIndexingTime" : "8 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "422 B",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "18.7%"
+      }, {
+        "indexId" : "fileIncludes",
+        "partOfTotalIndexingTime" : "18.5%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "partOfTotalIndexingTime" : "10.6%"
+      }, {
+        "indexId" : "ant-imports",
+        "partOfTotalIndexingTime" : "8.8%"
+      }, {
+        "indexId" : "FrameworkDetectionIndex",
+        "partOfTotalIndexingTime" : "8.4%"
+      }, {
+        "indexId" : "TodoIndex",
+        "partOfTotalIndexingTime" : "7.6%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "4.8%"
+      }, {
+        "indexId" : "taglibUris",
+        "partOfTotalIndexingTime" : "4.6%"
+      }, {
+        "indexId" : "XsltSymbolIndex",
+        "partOfTotalIndexingTime" : "4.6%"
+      }, {
+        "indexId" : "SpringXmlBeansIndex",
+        "partOfTotalIndexingTime" : "4.3%"
+      }, {
+        "indexId" : "xmlProperties",
+        "partOfTotalIndexingTime" : "2.6%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "2.4%"
+      }, {
+        "indexId" : "RelaxSymbolIndex",
+        "partOfTotalIndexingTime" : "1.6%"
+      }, {
+        "indexId" : "IdeaPluginRegistrationIndex",
+        "partOfTotalIndexingTime" : "1.1%"
+      } ],
+      "fastIndexers" : [ "PluginIdDependenciesIndex", "PluginIdModuleIndex", "devkit.ExtensionPointIndex" ]
+    } ]
+  }
+}

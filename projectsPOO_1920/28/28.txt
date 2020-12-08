@@ -1,0 +1,2 @@
+sonar.projectName=28
+sonar.sources=/Grupo47_POO2020/ProjetoPOO-BlueJ

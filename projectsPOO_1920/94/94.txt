@@ -1,0 +1,2 @@
+sonar.projectName=94
+sonar.sources=/Projeto/ProjetoJava

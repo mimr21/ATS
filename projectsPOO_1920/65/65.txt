@@ -1,0 +1,2 @@
+sonar.projectName=65
+sonar.sources=/Grupo39_POO2020/Projeto

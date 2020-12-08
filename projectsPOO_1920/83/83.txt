@@ -1,0 +1,2 @@
+sonar.projectName=83
+sonar.sources=/Grupo17_POO2020/src

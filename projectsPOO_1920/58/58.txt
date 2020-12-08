@@ -1,0 +1,2 @@
+sonar.projectName=58
+sonar.sources=/Gupo41_POO2020/TrazAqui/src

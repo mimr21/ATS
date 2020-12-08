@@ -1,0 +1,2 @@
+sonar.projectName=45
+sonar.sources=/Grupo9_POO2020/POO_20/trazaqui

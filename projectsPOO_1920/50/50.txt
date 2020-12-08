@@ -1,0 +1,2 @@
+sonar.projectName=50
+sonar.sources=/Trevo

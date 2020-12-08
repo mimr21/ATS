@@ -1,0 +1,151 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/tania/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting LC_ADDRESS=pt_PT.UTF-8
+dbus-update-activation-environment: setting LC_NAME=pt_PT.UTF-8
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting LC_MONETARY=pt_PT.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/tania
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting LOGNAME=tania
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/tania/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/tania
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/tania
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=pt_PT.UTF-8
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=pt_PT.UTF-8
+dbus-update-activation-environment: setting USER=tania
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=pt_PT.UTF-8
+dbus-update-activation-environment: setting LC_MEASUREMENT=pt_PT.UTF-8
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/tania/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=pt_PT.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+xrandr-plugin-Message: 18:32:42.311: Existing monitor config (/home/tania/.config/cinnamon-monitors.xml) not found at startup. Looking for legacy configuration (monitors.xml)
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+Cinnamon warning: Software rendering detected: llvmpipe (LLVM 10.0.0, 256 bits)
+Cinnamon warning: Log level 128: unsetenv() is not thread-safe and should not be used after threads are created
+Clutter-Message: 18:32:44.176: Sync method: PRESENTATION TIME
+Cjs-Message: 18:32:44.478: JS LOG: About to start Cinnamon
+Cjs-Message: 18:32:44.478: JS LOG: ACTIVATING SOFTWARE RENDERING
+Cjs-Message: 18:32:44.478: JS LOG: [LookingGlass/error] Cinnamon Software Rendering mode enabled
+Cjs-Message: 18:32:44.665: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 186 ms
+Cjs-Message: 18:32:44.678: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark-Grey/cinnamon/cinnamon.css
+Cjs-Message: 18:32:44.715: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark-Grey/cinnamon
+
+(cinnamon:1412): Cjs-WARNING **: 18:32:44.715: Some code accessed the property 'BackgroundManager' on the module 'backgroundManager'. That property was defined with 'let' or 'const' inside the module. This was previously supported, but is not correct according to the ES6 standard. Any symbols to be exported from a module must be defined with 'var'. The property access will work as previously for the time being, but please fix your code anyway.
+Cinnamon warning: Log level 128: posix_spawn avoided (fd close requested) 
+vmware-user: could not open /proc/fs/vmblock/dev
+
+(cinnamon:1412): Cjs-WARNING **: 18:32:45.582: Some code accessed the property 'EdgeFlipper' on the module 'edgeFlip'. That property was defined with 'let' or 'const' inside the module. This was previously supported, but is not correct according to the ES6 standard. Any symbols to be exported from a module must be defined with 'var'. The property access will work as previously for the time being, but please fix your code anyway.
+Cjs-Message: 18:32:45.709: JS LOG: [LookingGlass/info] loaded at Tue Dec 08 2020 18:32:45 GMT+0000 (WET)
+Cjs-Message: 18:32:45.709: JS LOG: Cinnamon started at Tue Dec 08 2020 18:32:45 GMT+0000 (WET)
+Cjs-Message: 18:32:45.843: JS LOG: [LookingGlass/info] ExtensionSystem started in 4 ms
+Cjs-Message: 18:32:45.843: JS LOG: [LookingGlass/info] DeskletManager started in 4 ms
+Cjs-Message: 18:32:45.844: JS LOG: [LookingGlass/info] SearchProviderManager started in 6 ms
+openGL version 3.3 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+Cjs-Message: 18:32:46.513: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 146 ms
+Cjs-Message: 18:32:46.538: JS LOG: [LookingGlass/info] Role locked: tray
+Cjs-Message: 18:32:46.550: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 36 ms
+Cjs-Message: 18:32:46.587: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 36 ms
+Cjs-Message: 18:32:46.709: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 122 ms
+Cjs-Message: 18:32:46.764: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 56 ms
+St-Message: 18:32:46.772: cogl npot texture sizes SUPPORTED
+Cjs-Message: 18:32:46.788: JS LOG: [LookingGlass/info] Role locked: notifications
+Cjs-Message: 18:32:46.850: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 86 ms
+Cinnamon warning: Log level 128: posix_spawn avoided (automatic reaping requested) (fd close requested) 
+Cjs-Message: 18:32:46.897: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 46 ms
+Cjs-Message: 18:32:46.922: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 26 ms
+Cjs-Message: 18:32:46.996: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 72 ms
+Cjs-Message: 18:32:47.021: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Cjs-Message: 18:32:47.036: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 40 ms
+Cinnamon warning: Log level 128: posix_spawn avoided (automatic reaping requested) (fd close requested) 
+Cinnamon warning: Log level 128: posix_spawn avoided (automatic reaping requested) (fd close requested) 
+
+(csd-power:1265): power-plugin-CRITICAL **: 18:32:47.275: abs_to_percentage: assertion 'max > min' failed
+Cjs-Message: 18:32:47.356: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 318 ms
+Cinnamon warning: Log level 128: posix_spawn avoided (automatic reaping requested) (fd close requested) 
+Cjs-Message: 18:32:47.382: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (org.x.StatusIcon.PID-1479-0)
+** Message: 18:32:47.387: nemo-desktop: session is cinnamon, establishing proxy
+Cjs-Message: 18:32:47.428: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (org.x.StatusIcon.PID-1479-0)
+Cjs-Message: 18:32:47.437: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 80 ms
+Cjs-Message: 18:32:47.483: JS WARNING: [/usr/share/cinnamon/js/misc/fileUtils.js line 210 > Function 384]: reference to undefined property "instance_id"
+Cinnamon warning: Log level 128: posix_spawn avoided (automatic reaping requested) (fd close requested) 
+Cjs-Message: 18:32:47.890: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 454 ms
+Cjs-Message: 18:32:47.891: JS LOG: [LookingGlass/info] AppletManager started in 2178 ms
+Cjs-Message: 18:32:47.946: JS LOG: [LookingGlass/info] Cinnamon took 3468 ms to start
+Cinnamon warning: Log level 128: posix_spawn avoided (automatic reaping requested) (fd close requested) 
+Cjs-Message: 18:32:48.261: JS LOG: Unknown network device type, is 14
+Cinnamon warning: Log level 16: STACK_OP_ADD: window 0x4e00001 already in stack
+Cinnamon warning: Log level 16: STACK_OP_ADD: window 0x4e00001 already in stack
+Nemo-Share-Message: 18:32:49.602: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+cinnamon-session[1107]: WARNING: t+9,12733s: Detected that screensaver has appeared on the bus
+Cinnamon warning: Log level 128: posix_spawn avoided (fd close requested) 
+[1208/183256.186816:ERROR:main_delegate.cc(955)] Could not load cef_100_percent.pak
+[1208/183256.194548:ERROR:main_delegate.cc(964)] Could not load cef_200_percent.pak
+[1208/183256.772502:INFO:HandlerRendererProcess.cpp(6)] HandlerRendererProcess created
+[1208/183256.772558:INFO:HandlerRendererProcess.cpp(6)] HandlerRendererProcess created
+[1208/183256.781639:ERROR:main_delegate.cc(955)] Could not load cef_100_percent.pak
+[1208/183256.781896:ERROR:main_delegate.cc(964)] Could not load cef_200_percent.pak
+[1208/183256.782141:ERROR:main_delegate.cc(955)] Could not load cef_100_percent.pak
+[1208/183256.782369:ERROR:main_delegate.cc(964)] Could not load cef_200_percent.pak
+[1208/183257.405472:INFO:HandlerGUILinux.cpp(142)] Create window
+[1208/183257.798063:INFO:HandlerRequest.cpp(20)] OnBeforeBrowse 33554433 url=qrc://ui/?theme=light
+[1208/183258.579096:INFO:HandlerRendererProcess.cpp(6)] HandlerRendererProcess created
+[1208/183258.589685:ERROR:main_delegate.cc(955)] Could not load cef_100_percent.pak
+[1208/183258.589954:ERROR:main_delegate.cc(964)] Could not load cef_200_percent.pak
+Dec 08, 2020 6:32:59 PM com.a.a.c.e.i4 <clinit>
+WARNING: Unable to load JDK7 types (annotations, java.nio.file.Path): no Java7 support added
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[1208/183301.029341:INFO:HandlerRendererProcess.cpp(15)] Started CEF-render process
+[1208/183301.029333:INFO:HandlerRendererProcess.cpp(15)] Started CEF-render process
+[1208/183301.395829:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_signal_add_emission_hook: assertion 'signal_id > 0' failed
+[1208/183301.396149:ERROR:browser_main_loop.cc(271)] GLib-GObject: g_signal_add_emission_hook: assertion 'signal_id > 0' failed
+Cjs-Message: 18:33:01.672: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: jetbrains-toolbox (org.x.StatusIcon.PID-1439-0)
+[1208/183302.531647:INFO:CONSOLE(2)] "Importing icons and logos from Ring UI is deprecated. Please import them from corresponding packages: `@jetbrains/icons` and `@jetbrains/icons`.", source: qrc://ui/index.js (2)
+[1208/183302.714820:INFO:CONSOLE(2)] "Updated model size: 133452", source: qrc://ui/index.js (2)
+[1208/183302.720964:INFO:CONSOLE(2)] "Updated model size: 147432", source: qrc://ui/index.js (2)
+[1208/183302.873935:INFO:CONSOLE(2)] "Updated model size: 147432", source: qrc://ui/index.js (2)
+[1208/183302.903079:INFO:CONSOLE(2)] "Updated model size: 147546", source: qrc://ui/index.js (2)
+[1208/183302.918437:INFO:CONSOLE(2)] "Initial model size: 147397", source: qrc://ui/index.js (2)
+[1208/183302.921880:INFO:CONSOLE(2)] "`size`, `width` and `height` props are not recommended to use in Ring UI `Icon` component. The intrinsic sizes of SVG icon (`width` and `height` SVG attributes) are used instead.
+
+We strongly recommend to use icons handcrafted for particular sizes. If your icon doesn't exist in the desired size, please ask your designer to draw one. "Responsive" checkmark should be unchecked when exporting icon.'", source: qrc://ui/index.js (2)
+[1208/183303.726659:INFO:CONSOLE(2)] "Updated model size: 147663", source: qrc://ui/index.js (2)
+[1208/183303.736862:INFO:CONSOLE(2)] "Updated model size: 147549", source: qrc://ui/index.js (2)
+Cjs-Message: 18:33:06.297: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (org.x.StatusIcon.PID-2009-0)
+[1208/183311.478794:INFO:CONSOLE(2)] "Updated model size: 209021", source: qrc://ui/index.js (2)
+Cinnamon warning: Log level 128: posix_spawn avoided (fd close requested) 
+Cjs-Message: 18:33:25.937: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (org.x.StatusIcon.PID-2108-0)
+/usr/lib/python3/dist-packages/mintcommon/installer/_flatpak.py:13: PyGIWarning: AppStreamGlib was imported without specifying a version first. Use gi.require_version('AppStreamGlib', '1.0') before import to ensure that the right version gets loaded.
+  from gi.repository import AppStreamGlib, GLib, GObject, Gtk, Gio
+Cinnamon warning: Log level 128: posix_spawn avoided (fd close requested) 
+Cinnamon warning: Log level 128: posix_spawn avoided (fd close requested) 
+
+** (caribou:1448): WARNING **: 18:57:59.412: daemon.vala:120: error in focus handler: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" could not be processed as object /org/a11y/atspi/accessible/315 does not exist
+

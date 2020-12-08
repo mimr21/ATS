@@ -1,0 +1,32 @@
+[2020-11-10 13:39:27.610] [exthost] [info] extension host started
+[2020-11-10 13:39:27.818] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-11-10 13:39:27.818] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-11-10 13:39:27.846] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2020-11-10 13:39:27.846] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2020-11-10 13:39:27.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:css"}
+[2020-11-10 13:39:27.861] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-11-10 13:39:27.892] [exthost] [info] ExtensionService#_doActivateExtension aeschli.vscode-css-formatter {"startup":false,"extensionId":{"value":"aeschli.vscode-css-formatter","_lower":"aeschli.vscode-css-formatter"},"activationEvent":"onLanguage:css"}
+[2020-11-10 13:39:27.893] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tania/.var/app/com.visualstudio.code/data/vscode/extensions/aeschli.vscode-css-formatter-1.0.1/out/extension
+[2020-11-10 13:39:27.907] [exthost] [info] ExtensionService#_doActivateExtension lonefy.vscode-JS-CSS-HTML-formatter {"startup":false,"extensionId":{"value":"lonefy.vscode-JS-CSS-HTML-formatter","_lower":"lonefy.vscode-js-css-html-formatter"},"activationEvent":"onLanguage:css"}
+[2020-11-10 13:39:27.907] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tania/.var/app/com.visualstudio.code/data/vscode/extensions/lonefy.vscode-js-css-html-formatter-0.2.3/out/src/extension
+[2020-11-10 13:39:27.924] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-11-10 13:39:27.924] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-11-10 13:39:27.928] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-10 13:39:27.929] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/git/dist/main
+[2020-11-10 13:39:27.948] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-11-10 13:39:27.948] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-11-10 13:39:27.954] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-11-10 13:39:27.954] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/search-result/dist/extension.js
+[2020-11-10 13:39:28.125] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-10 13:39:28.125] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/github/dist/extension.js
+[2020-11-10 13:39:28.142] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-11-10 13:39:28.142] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-11-10 13:39:28.242] [exthost] [info] eager extensions activated
+[2020-11-10 13:39:28.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-11-10 13:39:28.325] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2020-11-10 13:39:36.075] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-11-10 13:39:36.075] [exthost] [info] ExtensionService#loadCommonJSModule file:///app/extra/vscode/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2020-11-10 13:39:36.104] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":false,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"onLanguage:html"}
+[2020-11-10 13:39:36.104] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tania/.var/app/com.visualstudio.code/data/vscode/extensions/ecmel.vscode-html-css-0.2.3/dist/extension
+[2020-11-10 13:39:36.228] [exthost] [info] ExtensionService#_doActivateExtension tht13.html-preview-vscode {"startup":false,"extensionId":{"value":"tht13.html-preview-vscode","_lower":"tht13.html-preview-vscode"},"activationEvent":"onLanguage:html"}
+[2020-11-10 13:39:36.228] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tania/.var/app/com.visualstudio.code/data/vscode/extensions/tht13.html-preview-vscode-0.2.5/out/extension.js

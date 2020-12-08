@@ -1,0 +1,26 @@
+[2020-11-10 10:24:57.955] [sharedprocess] [info] main {"machineId":"9f92c76c1d719f7bb11d51d0e25dc2e73a15266cb6c01adb6c9c214512fbb5e4","windowId":2}
+[2020-11-10 10:25:38.021] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-11-10 10:45:05.144] [sharedprocess] [info] Installing extension: lonefy.vscode-js-css-html-formatter
+[2020-11-10 10:45:06.170] [sharedprocess] [info] Downloaded extension: lonefy.vscode-js-css-html-formatter undefined
+[2020-11-10 10:45:06.941] [sharedprocess] [info] Extracted extension to /home/tania/.var/app/com.visualstudio.code/data/vscode/extensions/.lonefy.vscode-js-css-html-formatter-0.2.3: lonefy.vscode-js-css-html-formatter
+[2020-11-10 10:45:06.942] [sharedprocess] [info] Renamed to /home/tania/.var/app/com.visualstudio.code/data/vscode/extensions/lonefy.vscode-js-css-html-formatter-0.2.3
+[2020-11-10 10:45:06.943] [sharedprocess] [info] Installation completed. lonefy.vscode-js-css-html-formatter
+[2020-11-10 10:45:06.954] [sharedprocess] [info] Extensions installed successfully: lonefy.vscode-js-css-html-formatter
+[2020-11-10 10:45:14.629] [sharedprocess] [info] Installing extension: aeschli.vscode-css-formatter
+[2020-11-10 10:45:15.101] [sharedprocess] [info] Downloaded extension: aeschli.vscode-css-formatter undefined
+[2020-11-10 10:45:15.748] [sharedprocess] [info] Extracted extension to /home/tania/.var/app/com.visualstudio.code/data/vscode/extensions/.aeschli.vscode-css-formatter-1.0.1: aeschli.vscode-css-formatter
+[2020-11-10 10:45:15.748] [sharedprocess] [info] Renamed to /home/tania/.var/app/com.visualstudio.code/data/vscode/extensions/aeschli.vscode-css-formatter-1.0.1
+[2020-11-10 10:45:15.750] [sharedprocess] [info] Installation completed. aeschli.vscode-css-formatter
+[2020-11-10 10:45:15.762] [sharedprocess] [info] Extensions installed successfully: aeschli.vscode-css-formatter
+[2020-11-10 10:45:36.337] [sharedprocess] [info] Installing extension: ecmel.vscode-html-css
+[2020-11-10 10:45:36.765] [sharedprocess] [info] Downloaded extension: ecmel.vscode-html-css undefined
+[2020-11-10 10:45:36.820] [sharedprocess] [info] Extracted extension to /home/tania/.var/app/com.visualstudio.code/data/vscode/extensions/.ecmel.vscode-html-css-0.2.3: ecmel.vscode-html-css
+[2020-11-10 10:45:36.820] [sharedprocess] [info] Renamed to /home/tania/.var/app/com.visualstudio.code/data/vscode/extensions/ecmel.vscode-html-css-0.2.3
+[2020-11-10 10:45:36.822] [sharedprocess] [info] Installation completed. ecmel.vscode-html-css
+[2020-11-10 10:45:36.826] [sharedprocess] [info] Extensions installed successfully: ecmel.vscode-html-css
+[2020-11-10 10:45:46.393] [sharedprocess] [info] Installing extension: tht13.html-preview-vscode
+[2020-11-10 10:45:48.618] [sharedprocess] [info] Downloaded extension: tht13.html-preview-vscode undefined
+[2020-11-10 10:45:51.255] [sharedprocess] [info] Extracted extension to /home/tania/.var/app/com.visualstudio.code/data/vscode/extensions/.tht13.html-preview-vscode-0.2.5: tht13.html-preview-vscode
+[2020-11-10 10:45:51.255] [sharedprocess] [info] Renamed to /home/tania/.var/app/com.visualstudio.code/data/vscode/extensions/tht13.html-preview-vscode-0.2.5
+[2020-11-10 10:45:51.257] [sharedprocess] [info] Installation completed. tht13.html-preview-vscode
+[2020-11-10 10:45:51.267] [sharedprocess] [info] Extensions installed successfully: tht13.html-preview-vscode

@@ -1,0 +1,10 @@
+[2020-11-10 10:24:53.953] [main] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/tania/.var/app/com.visualstudio.code/config/Code/User'
+[2020-11-10 10:24:54.278] [main] [info] update#setState idle
+[2020-11-10 10:25:24.290] [main] [info] update#setState checking for updates
+[2020-11-10 10:25:24.375] [main] [info] update#setState idle
+[2020-11-10 11:25:24.324] [main] [info] update#setState checking for updates
+[2020-11-10 11:25:24.841] [main] [info] update#setState idle
+[2020-11-10 12:25:24.484] [main] [info] update#setState checking for updates
+[2020-11-10 12:25:24.997] [main] [info] update#setState idle
+[2020-11-10 13:25:24.550] [main] [info] update#setState checking for updates
+[2020-11-10 13:25:24.923] [main] [info] update#setState idle

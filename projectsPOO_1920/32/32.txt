@@ -1,0 +1,2 @@
+sonar.projectName=32
+sonar.sources=/Grupo23_POO2020/TrazAqui_G23_Final

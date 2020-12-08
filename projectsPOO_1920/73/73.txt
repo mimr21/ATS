@@ -1,0 +1,2 @@
+sonar.projectName=73
+sonar.sources=/TrabalhoPOO/src
