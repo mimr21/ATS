@@ -1,0 +1,11 @@
+54/Grupo08_POO2020/TP/projeto
+54/Grupo08_POO2020/TP/projeto/avisos
+54/Grupo08_POO2020/TP/projeto/controllers
+54/Grupo08_POO2020/TP/projeto/encomenda
+54/Grupo08_POO2020/TP/projeto/entidades
+54/Grupo08_POO2020/TP/projeto/exceptions
+54/Grupo08_POO2020/TP/projeto/interfaces
+54/Grupo08_POO2020/TP/projeto/model
+54/Grupo08_POO2020/TP/projeto/testes
+54/Grupo08_POO2020/TP/projeto/util
+54/Grupo08_POO2020/TP/projeto/views
