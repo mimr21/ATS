@@ -43,7 +43,7 @@ public class TrazerAquiApp {
         view.run();
 
         try {
-            sistema.guardaEstado("EstadoBinario.txt");
+            sistema.guardaEstado("Grupo47_POO2020/ProjetoPOO-BlueJ/EstadoBinario.txt");
         } catch (IOException e) {
             e.printStackTrace();
         }

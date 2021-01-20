@@ -432,7 +432,7 @@ public class TrazAqui implements Serializable {
      * Le o ficheiro de logs
      */
      public void parse() {
-        Collection<String> linhas = lerFicheiro("logsSmall.txt");
+        Collection<String> linhas = lerFicheiro("Grupo08_POO2020/TP/Projeto/Model/logsSmall.txt");
         String[] linhaPartida;
         for (String linha : linhas) {
             linhaPartida = linha.split(":", 2);
