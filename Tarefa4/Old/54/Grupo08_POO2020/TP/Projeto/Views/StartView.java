@@ -8,6 +8,7 @@ import Projeto.Interfaces.IUtilizador;
 import Projeto.Interfaces.IVoluntario;
 import Projeto.Util.Input;
 import java.io.IOException;
+import java.util.concurrent.TimeUnit;
 
 
 /**
@@ -35,15 +36,30 @@ public class StartView {
             try {
                 switch (escolha) {
                     case 1:
+                        long startTime = System.nanoTime();
+
                         this.controller = new Controller(1, false);
                         ciclo = true;
                         System.out.println("AVISO: A password de todas as entidades é igual ao respetivo id!");
                         this.run(1);
+
+                        long endTime = System.nanoTime();
+                        // get difference of two nanoTime values
+                        long timeElapsed = endTime - startTime;
+                        System.out.println("Tempo de execução em milisegundos: " + timeElapsed / 1000000);
+
                         break;
                     case 2:
+                        startTime = System.nanoTime();
+
                         this.controller = new Controller(2, true);
                         ciclo = true;
                         this.run(1);
+
+                        endTime = System.nanoTime();
+                        // get difference of two nanoTime values
+                        timeElapsed = endTime - startTime;
+                        System.out.println("Tempo de execução em milisegundos: " + timeElapsed / 1000000);
                         break;
                     case 3:
                         this.controller = new Controller(3, false);

@@ -51,10 +51,24 @@ public class ViewUtilizador {
                         this.controller.gravar();
                         break;
                     case 2:
+                        long startTime = System.nanoTime();
+
                         this.mostraHistorico();
+
+                        long endTime = System.nanoTime();
+                        // get difference of two nanoTime values
+                        long timeElapsed = endTime - startTime;
+                        System.out.println("Tempo de execução em milisegundos: " + timeElapsed / 1000000);
                         break;
                     case 3:
+                        startTime = System.nanoTime();
+
                         this.mostraTop10();
+
+                        endTime = System.nanoTime();
+                        // get difference of two nanoTime values
+                        timeElapsed = endTime - startTime;
+                        System.out.println("Tempo de execução em milisegundos: " + timeElapsed / 1000000);
                         break;
                     case 4:
                         this.classificar();

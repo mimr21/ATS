@@ -1,4 +1,5 @@
 package Projeto.Views;
+import Projeto.Controllers.Controller;
 import Projeto.Controllers.ControllerLoja;
 import Projeto.Exceptions.EntidadeNaoExisteException;
 import Projeto.Exceptions.ListaVaziaException;
@@ -57,12 +58,21 @@ public class ViewLoja {
                         this.controller.gravar();
                         break;
                     case 4:
+                        long startTime = System.nanoTime();
+
                         System.out.println("Quantas pessoas estao de momento na fila?");
                         int tamanho_fila = Input.lerInt();
                         this.controller.qtsPessoasAtual(tamanho_fila);
                         this.controller.gravar();
+
+                        long endTime = System.nanoTime();
+                        // get difference of two nanoTime values
+                        long timeElapsed = endTime - startTime;
+                        System.out.println("Tempo de execução em milisegundos: " + timeElapsed / 1000000);
                         break;
                     case 5:
+                        startTime = System.nanoTime();
+
                         System.out.println("Produtos prontos para entregar:");
                         Collection<String> h = this.controller.historicoEncomendas();
                         for (String s : h) {
@@ -76,6 +86,11 @@ public class ViewLoja {
                         } catch (EntidadeNaoExisteException exc) {
                             System.out.println(exc.getMessage());
                         }
+
+                        endTime = System.nanoTime();
+                        // get difference of two nanoTime values
+                        timeElapsed = endTime - startTime;
+                        System.out.println("Tempo de execução em milisegundos: " + timeElapsed / 1000000);
                         break;
                     case 6:
                         boolean sair = this.alteraDadosLoja();

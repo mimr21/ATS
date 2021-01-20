@@ -48,17 +48,34 @@ public class ViewEmpresa {
                         this.tranportarEncomenda();
                         break;
                     case 3:
+                        long startTime = System.nanoTime();
+
                         System.out.println("Qual o valor para N?");
                         int n = Input.lerInt();
                         this.topNClientsEmpresa(n);
+
+                        long endTime = System.nanoTime();
+                        // get difference of two nanoTime values
+                        long timeElapsed = endTime - startTime;
+                        System.out.println("Tempo de execução em milisegundos: " + timeElapsed / 1000000);
+
                         break;
                     case 4:
+                        startTime = System.nanoTime();
+
                         System.out.println("A empresa percorreu "
                                 + this.controller.getDistTotalEmpresa() + " kms.");
                         System.out.println("Prima Enter para continuar!");
                         Input.lerString();
+
+                        endTime = System.nanoTime();
+                        // get difference of two nanoTime values
+                        timeElapsed = endTime - startTime;
+                        System.out.println("Tempo de execução em milisegundos: " + timeElapsed / 1000000);
                         break;
                     case 5:
+                        startTime = System.nanoTime();
+
                         System.out.println("Qual o valor para N?");
                         int N = Input.lerInt();
                         Collection<String> emps = this.controller.getTopNEmpresasDist(N);
@@ -67,8 +84,15 @@ public class ViewEmpresa {
                             System.out.println(i + " -> " + e);
                             i++;
                         }
+
+                        endTime = System.nanoTime();
+                        // get difference of two nanoTime values
+                        timeElapsed = endTime - startTime;
+                        System.out.println("Tempo de execução em milisegundos: " + timeElapsed / 1000000);
                         break;
                     case 6:
+                        startTime = System.nanoTime();
+
                         System.out.println("Qual o valor para N?");
                         int valor = Input.lerInt();
                         Collection<String> col = this.controller.getTopNEmpresasEnc(valor);
@@ -77,13 +101,31 @@ public class ViewEmpresa {
                             System.out.println(i2 + " -> " + e);
                             i2++;
                         }
+                        endTime = System.nanoTime();
+                        // get difference of two nanoTime values
+                        timeElapsed = endTime - startTime;
+                        System.out.println("Tempo de execução em milisegundos: " + timeElapsed / 1000000);
                         break;
                     case 7:
+                        startTime = System.nanoTime();
+
                         System.out.println("Lista de encomendas por aceitar");
                         this.encsPorTransportarEmpresa();
+
+                        endTime = System.nanoTime();
+                        // get difference of two nanoTime values
+                        timeElapsed = endTime - startTime;
+                        System.out.println("Tempo de execução em milisegundos: " + timeElapsed / 1000000);
                         break;
                     case 8:
+                        startTime = System.nanoTime();
+
                         this.faturacaoPeriodica();
+
+                        endTime = System.nanoTime();
+                        // get difference of two nanoTime values
+                        timeElapsed = endTime - startTime;
+                        System.out.println("Tempo de execução em milisegundos: " + timeElapsed / 1000000);
                         break;
                     case 9:
                         this.alteraDadosEmpresa();
