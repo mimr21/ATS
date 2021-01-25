@@ -3,13 +3,11 @@ package projeto;
 
 import projeto.model.TrazAqui;
 
-
 import java.util.Scanner;
 
 public class TestesPerformance {
 
     public static void main(String[] args) {
-
         TrazAqui s = new TrazAqui();
         String loja, utilizador , transp;
         int n;

@@ -128,7 +128,7 @@ public class TestesPerformance {
         s.getHistoricoTransportadores(transp);
         endTime = System.nanoTime();
         timeElapsed = endTime - startTime;
-        System.out.println("Tempo de execução em milisegundos getPedidosTransportadorasPendentes: " + timeElapsed / 1000000);
+        System.out.println("Tempo de execução em milisegundos getHistoricoTransportadores: " + timeElapsed / 1000000);
 
         runtime = Runtime.getRuntime();
         // Run the garbage collector

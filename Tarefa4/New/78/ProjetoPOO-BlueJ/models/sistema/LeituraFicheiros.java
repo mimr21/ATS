@@ -23,7 +23,7 @@ import java.util.logging.Logger;
 
 public class LeituraFicheiros {
 
-    private static String nomeFicheiro = "ProjetoPOO-BlueJ/logs_20200416.txt";
+    private static String nomeFicheiro = "ProjetoPOO-BlueJ/logsSmall.txt";
     static Logger logger = Logger.getLogger(LeituraFicheiros.class.getName());
 
     private LeituraFicheiros() {
