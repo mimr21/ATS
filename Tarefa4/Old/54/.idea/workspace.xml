@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3b0ea46-7d09-438a-9d62-ed5c30c099d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Tarefa3/gerador.hs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Tarefa3/gerador.hs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grupo08_POO2020/TP/Projeto/Model/Logs/logsBig.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grupo08_POO2020/TP/Projeto/Model/Logs/logsSmall.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Grupo08_POO2020/TP/Projeto/Model/logsSmall.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grupo08_POO2020/TP/Projeto/Model/TrazAqui.java" beforeDir="false" afterPath="$PROJECT_DIR$/Grupo08_POO2020/TP/Projeto/Model/TrazAqui.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grupo08_POO2020/TP/Projeto/Views/StartView.java" beforeDir="false" afterPath="$PROJECT_DIR$/Grupo08_POO2020/TP/Projeto/Views/StartView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../78/Grupo47_POO2020/ProjetoPOO-BlueJ/Models/Sistema/LeituraFicheiros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../78/Grupo47_POO2020/ProjetoPOO-BlueJ/Models/Sistema/LeituraFicheiros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../78/Grupo47_POO2020/ProjetoPOO-BlueJ/TrazerAquiApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../78/Grupo47_POO2020/ProjetoPOO-BlueJ/TrazerAquiApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../78/out/production/78/Models/Sistema/LeituraFicheiros.class" beforeDir="false" afterPath="$PROJECT_DIR$/../78/out/production/78/Models/Sistema/LeituraFicheiros.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../78/out/production/78/TrazerAquiApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../78/out/production/78/TrazerAquiApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../projectsPOO_1920/2/src/main/java/boot/initrd.img" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projectsPOO_1920/2/src/main/java/boot/initrd.img" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../projectsPOO_1920/2/src/main/java/boot/initrd.img.old" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projectsPOO_1920/2/src/main/java/boot/initrd.img.old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../projectsPOO_1920/2/src/main/java/boot/vmlinuz" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projectsPOO_1920/2/src/main/java/boot/vmlinuz" afterDir="false" />
@@ -373,6 +364,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
@@ -385,7 +383,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../78" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -396,7 +394,7 @@
       <recent name="C:\Users\Mimi\Desktop\ATS\Projeto\ATS_TP\Tarefa4\Old\54\Grupo08_POO2020\TP\Projeto\Model" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestesPerformance">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Projeto.App" />
       <module name="54" />
@@ -410,8 +408,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestesPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projeto.TestesPerformance" />
+      <module name="54" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Projeto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestesPerformance" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
