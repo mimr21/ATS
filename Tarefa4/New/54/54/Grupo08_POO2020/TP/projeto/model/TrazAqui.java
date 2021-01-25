@@ -414,7 +414,7 @@ static String iss = "Id já existente!";
      * Le o ficheiro de logs
      */
      public void parse() {
-        Collection<String> linhas = lerFicheiro("projeto/docs/logs.txt");
+        Collection<String> linhas = lerFicheiro("Grupo08_POO2020/TP/projeto/model/logsSmall.txt");
         String[] linhaPartida;
          String a = "Ups! ";
         for (String linha : linhas) {

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3b0ea46-7d09-438a-9d62-ed5c30c099d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../projectsPOO_1920/2/src/main/java/boot/initrd.img" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projectsPOO_1920/2/src/main/java/boot/initrd.img" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../projectsPOO_1920/2/src/main/java/boot/initrd.img.old" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projectsPOO_1920/2/src/main/java/boot/initrd.img.old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../projectsPOO_1920/2/src/main/java/boot/vmlinuz" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projectsPOO_1920/2/src/main/java/boot/vmlinuz" afterDir="false" />
@@ -383,7 +382,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../New/54" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
