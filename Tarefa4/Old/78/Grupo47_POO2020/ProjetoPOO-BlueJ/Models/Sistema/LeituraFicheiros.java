@@ -25,7 +25,7 @@ import java.util.Map;
 
 public class LeituraFicheiros {
 
-    private static String nomeFicheiro = "Grupo47_POO2020/ProjetoPOO-BlueJ/logs_20200416.txt";
+    private static String nomeFicheiro = "Grupo47_POO2020/ProjetoPOO-BlueJ/logsBig.txt";
 
     /**
      * Metodo que realiza a leitura do ficheiro logs.
