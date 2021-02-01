@@ -1,6 +1,0 @@
-projectKey=groupId:testeTarefa2
-serverUrl=http://localhost:9000
-serverVersion=8.6.0.39681
-dashboardUrl=http://localhost:9000/dashboard?id=groupId%3AtesteTarefa2
-ceTaskId=AXalcrcOfWWlDBUbZ-L8
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXalcrcOfWWlDBUbZ-L8
