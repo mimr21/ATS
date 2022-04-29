@@ -1,2 +1,0 @@
-sonar.projectName=59
-sonar.sources=/Grup57_POO2020/src

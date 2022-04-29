@@ -1,2 +1,0 @@
-sonar.projectName=10
-sonar.sources=/Grupo16_POO2020/Projeto/src

@@ -1,2 +1,0 @@
-sonar.projectName=91
-sonar.sources=/Grupo24_POO2020/TrazAqui_FinalVersion/src

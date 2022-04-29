@@ -1,2 +1,0 @@
-sonar.projectName=31
-sonar.sources=/TrazAqui/controller

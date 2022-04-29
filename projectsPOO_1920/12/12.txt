@@ -1,2 +1,0 @@
-sonar.projectName=12
-sonar.sources=/Projeto/src

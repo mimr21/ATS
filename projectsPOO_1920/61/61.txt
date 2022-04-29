@@ -1,2 +1,0 @@
-sonar.projectName=61
-sonar.sources=/POOProject/POOP/src

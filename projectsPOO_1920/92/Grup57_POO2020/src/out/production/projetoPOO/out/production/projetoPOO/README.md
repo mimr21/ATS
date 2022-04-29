@@ -1,2 +1,0 @@
-# projetoPOO
-	project source

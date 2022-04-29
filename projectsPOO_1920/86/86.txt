@@ -1,2 +1,0 @@
-sonar.projectName=86
-sonar.sources=/Grupo29_POO2020/Controller

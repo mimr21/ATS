@@ -1,2 +1,0 @@
-sonar.projectName=24
-sonar.sources=/POO-master/src

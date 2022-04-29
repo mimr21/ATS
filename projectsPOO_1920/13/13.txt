@@ -1,2 +1,0 @@
-sonar.projectName=13
-sonar.sources=/Controller

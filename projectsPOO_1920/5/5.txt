@@ -1,2 +1,0 @@
-sonar.projectName=5
-sonar.sources=/Grupo28_POO2020/TrazAqui/src

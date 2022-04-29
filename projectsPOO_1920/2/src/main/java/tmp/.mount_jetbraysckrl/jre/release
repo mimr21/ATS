@@ -1,2 +1,0 @@
-JAVA_VERSION="11.0.7"
-MODULES="java.base java.logging java.management java.security.sasl java.naming java.xml java.prefs jdk.crypto.ec jdk.management"

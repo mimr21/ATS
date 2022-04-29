@@ -1,2 +1,0 @@
-sonar.projectName=29
-sonar.sources=/Grupo35_POO2020/Traz-Aqui-POO-/TrazAqui!/com/javamarlon

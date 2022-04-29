@@ -1,2 +1,0 @@
-sonar.projectName=39
-sonar.sources=/Grupo30_POO2020/TrazAqui!
